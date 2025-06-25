@@ -22,13 +22,13 @@ This is a robust, modular document ingestion platform built with **Streamlit** a
 
   ##  🔹 Supported File Types
 
-.pdf — PDF Documents
+- .pdf — PDF Documents
 
-.docx — Word Documents
+- .docx — Word Documents
 
-.xls, .xlsx — Excel Files
+- .xls, .xlsx — Excel Files
 
-.jpg, .jpeg, .png, .gif — Image Files
+- .jpg, .jpeg, .png, .gif — Image Files
 
 
 
