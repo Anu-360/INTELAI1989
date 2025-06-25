@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "cash-budget-template-word (2).docx",
+        "type": "Financial Statement",
+        "status": "Classified \u2192 Routed",
+        "last_updated": "2025-06-19 09:41:23"
+    },
+    {
+        "filename": "norton.jpeg",
+        "type": "Others",
+        "status": "Classified \u2192 Routed",
+        "last_updated": "2025-06-20 16:33:52"
+    },
+    {
+        "filename": "lenovo.jpeg",
+        "type": "Others",
+        "status": "Classified \u2192 Routed \u2192 Manually Routed",
+        "last_updated": "2025-06-20 19:50:13"
+    },
+    {
+        "filename": "Invoice template.pdf",
+        "type": "Invoice",
+        "status": "Classified \u2192 Routed to S3",
+        "last_updated": "2025-06-20 19:27:05"
+    },
+    {
+        "filename": "logo.png",
+        "type": "Others > None",
+        "status": "Classified \u2192 S3 Upload Failed Classified \u2192 Manually Routed",
+        "last_updated": "2025-06-21 11:37:33"
+    },
+    {
+        "filename": "Template.docx",
+        "type": "Others",
+        "status": "Classified \u2192 Sent for Admin Review",
+        "last_updated": "2025-06-21 11:44:35"
+    },
+    {
+        "filename": "microsoft.png",
+        "type": "Operations > Inventory Records",
+        "status": "Classified \u2192 Sent for Admin Review Classified \u2192 Manually Routed",
+        "last_updated": "2025-06-21 17:22:30"
+    },
+    {
+        "filename": "Screenshot (33).png",
+        "type": "Report",
+        "status": "Classified \u2192 Routed to S3",
+        "last_updated": "2025-06-25 12:50:01"
+    },
+    {
+        "filename": "Invoice template (2).pdf",
+        "type": "Invoice",
+        "status": "Classified \u2192 Routed to S3",
+        "last_updated": "2025-06-25 13:52:24"
+    },
+    {
+        "filename": "router.jpg",
+        "type": "Others > None",
+        "status": "Classified \u2192 Sent for Admin Review Classified \u2192 Manually Routed",
+        "last_updated": "2025-06-25 16:06:09"
+    },
+    {
+        "filename": "Budget Document.pdf",
+        "type": "Financial Statement",
+        "status": "Classified \u2192 Routed to S3",
+        "last_updated": "2025-06-25 16:13:53"
+    },
+    {
+        "filename": "ticket.pdf",
+        "type": "Human Resources > Employee Records",
+        "status": "Classified \u2192 Sent for Admin Review Classified \u2192 Manually Routed",
+        "last_updated": "2025-06-25 16:18:09"
+    },
+    {
+        "filename": "Invoice template (3).pdf",
+        "type": "Invoice",
+        "status": "Classified \u2192 Routed to S3",
+        "last_updated": "2025-06-25 16:15:20"
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "57c37188-b399-4ebd-9e9c-6c792ddf7c2a",
+    "name": "Invoice template.pdf",
+    "path": "data\\57c37188-b399-4ebd-9e9c-6c792ddf7c2a.pdf",
+    "status": "Ingested",
+    "last_updated": "2025-06-19 19:09:06"
+  },
+  {
+    "id": "0c387db4-3758-436a-ae25-519989ca5526",
+    "name": "Invoice template.pdf",
+    "path": "data\\0c387db4-3758-436a-ae25-519989ca5526.pdf",
+    "status": "Ingested",
+    "last_updated": "2025-06-19 19:09:34"
+  },
+  {
+    "id": "40de514e-f68e-4a79-b2ea-3d25f9784e05",
+    "name": "Invoice template.pdf",
+    "path": "data\\40de514e-f68e-4a79-b2ea-3d25f9784e05.pdf",
+    "status": "Ingested",
+    "last_updated": "2025-06-19 19:09:46"
+  },
+  {
+    "id": "374e316f-6c46-40f6-9b75-f9983ea25957",
+    "name": "Invoice template.pdf",
+    "path": "data\\374e316f-6c46-40f6-9b75-f9983ea25957.pdf",
+    "status": "Ingested",
+    "last_updated": "2025-06-19 19:09:47"
+  }
+]
