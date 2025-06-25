@@ -18,6 +18,18 @@ This is a robust, modular document ingestion platform built with **Streamlit** a
   - Preview and download documents directly from **S3**.
 - **User Interface**: Clean, responsive design with icon support and color-coded departments.
 
+  ---
+
+  ##  🔹 Supported File Types
+
+.pdf — PDF Documents
+
+.docx — Word Documents
+
+.xls, .xlsx — Excel Files
+
+.jpg, .jpeg, .png, .gif — Image Files
+
 
 
 
