@@ -1,36 +1,73 @@
-# Document Ingestion and Classification System
+# 🚀 Document Ingestion & Classification System
 
-This is a robust, modular document ingestion platform built with **Streamlit** and powered by **AWS S3** and **LLM-based document classification**. It automates document upload, extraction, classification, and routing to appropriate cloud storage folders.
+A powerful, modular document ingestion platform built with **Streamlit**, integrated with **AWS S3**, and enhanced by **LLM-powered classification (Gemini/AI)**. Automate your document workflows — from upload to classification and cloud-based storage routing — in one seamless interface.
 
 ---
 
-## 🔹 Features
+## 🔧 Key Features
 
-- **Upload and Ingest**: Supports documents in PDF, Word, Excel, and image formats.
-- **Text Extraction**: Uses **OCR (Tesseract)** for images and text parsing for documents.
-- **AI Classification**: Uses **Gemini / LLM** to classify documents into departments.
-- **Automated Routing**:
-  - Classified documents are routed to corresponding **S3 department folders**.
-  - Unclassified (Others) are **sent for Admin Review**.
-- **Recent Activity Log**: Tracks status updates (e.g., Extracted, Classified, Routed).
-- **Interactive Dashboard**:
-  - Browse departments and sub-departments.
-  - Preview and download documents directly from **S3**.
-- **User Interface**: Clean, responsive design with icon support and color-coded departments.
+✅ **Multi-Format Upload**  
+Supports drag-and-drop uploads for:  
+`.pdf`, `.docx`, `.xls`, `.xlsx`, `.jpg`, `.jpeg`, `.png`, `.gif`
 
-  ---
+🧠 **Smart Text Extraction**  
+- Built-in OCR via **Tesseract** for image-based documents  
+- Fast and reliable text parsing for Word, PDF, and Excel files
 
-  ##  🔹 Supported File Types
+📚 **AI-Driven Classification**  
+- Uses **Gemini/LLM** to automatically tag documents  
+- Categorizes into appropriate **departments and sub-departments**
 
-- .pdf — PDF Documents
+📂 **Auto-Routing to AWS S3**  
+- Documents are sent to their designated **department folders**  
+- Uncategorized files are routed to **Admin Review** for manual handling
 
-- .docx — Word Documents
+📈 **Real-Time Activity Log**  
+- View recent upload statuses:  
+  _Extracted → Classified → Routed_
 
-- .xls, .xlsx — Excel Files
+📊 **Interactive Dashboard**  
+- Explore by department/sub-department  
+- Instantly **preview** and **download** files from **S3**  
+- Responsive UI with **icons**, **color codes**, and user-friendly navigation
 
-- .jpg, .jpeg, .png, .gif — Image Files
+---
 
+## 🗂️ Supported File Types
 
+| Type         | Description            |
+|--------------|------------------------|
+| `.pdf`       | PDF Documents          |
+| `.docx`      | Word Documents         |
+| `.xls/.xlsx` | Excel Spreadsheets     |
+| `.jpg/.jpeg` | Image Files (JPG)      |
+| `.png`       | Image Files (PNG)      |
+| `.gif`       | Animated Images (GIF)  |
 
+---
 
+## 📌 Ideal Use Cases
 
+- Enterprise document intake and routing
+- Departmental document management
+- Automated filing for HR, Legal, Finance, etc.
+- Admin review pipelines
+
+---
+
+## 📎 Technologies Used
+
+- **Frontend**: Streamlit (Python)
+- **Storage**: AWS S3
+- **OCR**: Tesseract
+- **LLM**: Gemini / Google Vertex AI / OpenAI (pluggable)
+
+---
+
+## 🧪 Coming Soon
+
+- 🔐 Authentication & User Roles  
+- 📦 Batch Upload Support  
+- 📜 Audit Trail Export (CSV/Excel)  
+- 🧠 Custom Classifier Fine-Tuning  
+- 📨 Email-to-Ingest Automation  
