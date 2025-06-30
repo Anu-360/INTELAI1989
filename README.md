@@ -66,8 +66,5 @@ Supports drag-and-drop uploads for:
 
 ## 🧪 Coming Soon
 
-- 🔐 Authentication & User Roles  
-- 📦 Batch Upload Support  
-- 📜 Audit Trail Export (CSV/Excel)  
+- 🔐 Authentication & User Roles   
 - 🧠 Custom Classifier Fine-Tuning  
-- 📨 Email-to-Ingest Automation  
